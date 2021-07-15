@@ -1,0 +1,6 @@
+enabled: true
+auto: false
+pull_requests: true
+comments: false
+restylers:
+  - isort
